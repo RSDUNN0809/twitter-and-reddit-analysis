@@ -1,0 +1,6 @@
+(base) ryan_s_dunn@Ryans-MBP test_file_path % sqlite3
+SQLite version 3.35.4 2021-04-02 15:20:15
+Enter ".help" for usage hints.
+Connected to a transient in-memory database.
+Use ".open FILENAME" to reopen on a persistent database.
+sqlite> .open twitter_data.db
